@@ -1,6 +1,3 @@
-## 2023_Data_Engineering
-- encore playdata 교육을 받으며 학습한 machine learning 및 deep learning 학습 자료
-
 ## Categorize_Competition
 - dacon 전화 해지 여부 분류 AI 경진대회 참여 코드
 
